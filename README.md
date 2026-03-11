@@ -10,4 +10,3 @@ Sou estudante de Sistemas de Informação e atualmente estagiária em análise d
 * ✉️  You can contact me at [kamilycurcio0@gmail.com](mailto:kamilycurcio0@gmail.com)
 * 🧠  I'm currently learning 🚀 Aprendendo Power BI, SQL e Modelagem de Dados
 * 👥  I'm looking to collaborate on Projetos acadêmicos e de inovação tecnológica
-* 💬  🪄Se eu tivesse uma Horcrux, ela estaria guardada dentro de um repositório Git.🔮
