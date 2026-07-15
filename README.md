@@ -56,15 +56,6 @@ Atualmente, expando meu repertório técnico para **Segurança da Informação e
 
 ---
 
-## 📚 Publicações & Pesquisa
-
-### Trabalhos Acadêmicos
-- 📄 **[Título do trabalho científico]** — Estágio em [Instituição/Empresa]
-  - DOI / Link para o documento
-  - Ano de conclusão
-
----
-
 ## 🤝 Interesses de Colaboração
 
 Disponível para participação em:
