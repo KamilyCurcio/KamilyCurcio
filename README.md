@@ -94,7 +94,7 @@ Big Data & Spark             ███░░░░░░░░░░░  3/10 (e
 ## 🔗 Links Rápidos
 
 - 📧 Email: [kamilycurcio0@gmail.com](mailto:kamilycurcio0@gmail.com)
-- 💼 LinkedIn: [Kamily Cúrcio](www.linkedin.com/in/kamily-cúrcio)
+- 💼 LinkedIn: [linkedin.com/in/kamily-cúrcio](https://www.linkedin.com/in/kamily-cúrcio)
 
 ---
 
