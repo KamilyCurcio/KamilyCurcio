@@ -14,7 +14,7 @@ Atualmente, expando meu repertório técnico para **Segurança da Informação e
 🇧🇷 Santa Catarina, Brasil
 
 ### 📧 Contato
-✉️ [kamilycurcio@gmail.com](mailto:kamilycurcio@gmail.com)
+✉️ [kamilycurcio0@gmail.com](mailto:kamilycurcio0@gmail.com)
 
 ---
 
